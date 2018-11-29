@@ -1,7 +1,10 @@
 # collectionView-layout
 Custom collectionView layout
+
 //自定义layout需要重写一下四个方法：
+
 //1.自定义layout需要重写这些方法
+
 -(void)prepareLayout;
 
     
